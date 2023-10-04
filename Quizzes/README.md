@@ -4,3 +4,11 @@
 📁 `Quiz 1`: 
 
 `Simple Linear Systems` & `Jacobi Iteration`
+
+📁 `Quiz 2`: 
+
+`Span` & `One-to-one (Injective) Linear Transformations`
+
+📁 `Quiz 3`: 
+
+`LU Factorization`, `Matrix Inverses`, `Hidden Markov Models`
