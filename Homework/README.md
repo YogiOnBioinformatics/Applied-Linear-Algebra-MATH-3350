@@ -16,5 +16,13 @@ Covers:
 * `Linear Transformations`
 * `Matrix Algebra`
 
+📁 `Homework 3`: 
+
+Covers: 
+* `Matrix Inverses`
+* `Lower, Upper Triangular (LU) Matrix Factorization`
+* `Markov Models`
+* `Vector Subspace`
+
 TODO: 
 * Add Homework 1. 
