@@ -28,5 +28,10 @@ Covers:
 * Basis and Dimension 
 * Row and Column Spaces
 
+📁 `Homework 6`: 
+* Determinants 
+* Properties of Determinants 
+* Applications of Determinants 
+
 TODO: 
 * Add Homework 1. 
