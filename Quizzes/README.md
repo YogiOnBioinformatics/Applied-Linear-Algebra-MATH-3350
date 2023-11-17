@@ -12,3 +12,7 @@
 📁 `Quiz 3`: 
 
 `LU Factorization`, `Matrix Inverses`, `Hidden Markov Models`
+
+📁 `Quiz 3`: 
+
+`Cramer's Rule`, `Diagonalization`, `Matrix Powers`
