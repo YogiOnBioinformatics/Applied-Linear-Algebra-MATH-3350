@@ -22,3 +22,6 @@
 `Orthogonal Diagonalization`, `Least Squares Linear Regression`
 
 📁 `Quiz 6`: 
+
+`Projections`, `Gram-Schmidt Process`, `Inner Products`
+
