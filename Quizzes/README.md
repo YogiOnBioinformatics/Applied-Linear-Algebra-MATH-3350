@@ -13,6 +13,12 @@
 
 `LU Factorization`, `Matrix Inverses`, `Hidden Markov Models`
 
-📁 `Quiz 3`: 
+📁 `Quiz 4`: 
 
 `Cramer's Rule`, `Diagonalization`, `Matrix Powers`
+
+📁 `Quiz 5`: 
+
+`Orthogonal Diagonalization`, `Least Squares Linear Regression`
+
+📁 `Quiz 6`: 
