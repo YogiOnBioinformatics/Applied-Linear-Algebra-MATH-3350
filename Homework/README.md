@@ -1,5 +1,8 @@
 # Hand-Written Homework 
 
+📄 `Homework 1`: 
+* `Systems of Linear Equations`
+
 📄 `Homework 2`: 
 * Simple applications 
 * `Jacobi Iteration`
@@ -32,5 +35,17 @@
 * `Matrix Diagonalization`
 * `Numerical Analysis for Eigenvalue/Eigenvector Discovery`
 
-TODO: 
-* Add Homework 1. 
+📄 `Homework 8`: 
+* `Dot Products`
+* `Orthogonal Sets, Bases, Subspaces`
+* `Projections` and `Gram-Schmidt Orthogonalization`
+
+📄 `Homework 9`:
+* `Symmetric Matrix Diagonalization`
+* `Abstract Vector Spaces`
+
+📄 `Homework 10`:
+* `Abstract Notions of Linear Independence/Span`
+* `Abstract Notions of Dimension/Basis`
+* `Inner Products/Spaces` 
+
