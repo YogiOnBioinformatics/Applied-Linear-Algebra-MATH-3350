@@ -7,6 +7,9 @@ Scans of hand-written homework done.
 
 See `Homework/README.md` for information on what each homework covers. 
 
+📁 `Lecture`: 
+
+Scanned PDF of all lecture notes in chronological order. 
 
 📁 `Quizzes`: 
 
